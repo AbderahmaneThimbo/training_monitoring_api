@@ -95,4 +95,4 @@ npm run seed
 
 ## 🧕🏽 Auteur
 
-[Aichetou Gaye](https://github.com/Aichetou-Gaye)
+[Abderahman Thimbo](https://github.com/AbderahmaneThimbo)
