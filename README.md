@@ -93,6 +93,6 @@ npm install
 npm run seed
 ```
 
-## 🧕🏽 Auteur
+## Auteur
 
 [Abderahman Thimbo](https://github.com/AbderahmaneThimbo)
